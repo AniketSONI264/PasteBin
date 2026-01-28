@@ -1,4 +1,3 @@
-
 /**
  * Database connection and schema management for Neon Postgres
  */
